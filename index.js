@@ -1,4 +1,6 @@
 // add solution here
 
 
-function 
+function theBeatlesPlay(arrayOfMusicians,arrayOfInstruments){
+  var []
+}
