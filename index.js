@@ -13,7 +13,7 @@ function theBeatlesPlay(arrayOfMusicians,arrayOfInstruments){
   
    var i=0;
    while(facts[i]<facts.length-1){
-     array.push(facts[i] + '!!!');
+     facts.push([i] + '!!!');
    }
-   return array;
+   return facts;
  }
