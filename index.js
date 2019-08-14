@@ -6,7 +6,7 @@ function theBeatlesPlay(arrayOfMusicians,arrayOfInstruments){
   for(let i=0;i<arrayOfMusicians.length; i++){
     array.push(arrayOfMusicians[i]+" "+arrayOfInstruments[i]);
   }
-  function johnLennonFacts(facts){
+  return array;
     
   }
 }
