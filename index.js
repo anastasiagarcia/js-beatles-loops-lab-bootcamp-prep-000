@@ -15,5 +15,5 @@ function theBeatlesPlay(arrayOfMusicians,arrayOfInstruments){
    while(facts[i]<facts.length-1){
      facts.push(facts[i]+ '!!!');
    }
-   return array;
+   return facts;
  }
